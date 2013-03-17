@@ -1,7 +1,7 @@
 # pip install fuzzywuzzy
 # pip install python-Levenshtein
 import csv
-from fuzzywuzzy import fuzz
+#from fuzzywuzzy import fuzz
 from pprint import pprint
 import Levenshtein
 import numpy as np
